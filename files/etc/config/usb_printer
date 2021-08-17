@@ -1,0 +1,5 @@
+
+config printer
+	option enabled '1'
+	option device '4f9/5607/100'
+	option port '0'
